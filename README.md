@@ -22,7 +22,7 @@ O objetivo foi consolidar conceitos fundamentais para desenvolvimento backend en
 
 ---
 
-# 📚 Conceitos trabalhados
+# Conceitos trabalhados
 
 Durante o desenvolvimento foram praticados:
 
